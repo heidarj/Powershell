@@ -2,7 +2,7 @@ function template {
 	
 	<#
   .SYNOPSIS
-  Creates a credstore to store PSCredentials
+   short description
   .DESCRIPTION
 	long description
   .EXAMPLE
